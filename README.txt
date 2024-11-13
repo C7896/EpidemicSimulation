@@ -1,7 +1,7 @@
 author: Chev Kodama
 
 ------------------------------------------
-| SEE manuals/user.pdf FOR USER'S MANUAL |
+| SEE manuals/manual.pdf FOR USER'S MANUAL |
 ------------------------------------------
 
 EpidemicSimulation Directory Contents:
