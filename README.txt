@@ -1,5 +1,7 @@
 author: Chev Kodama
 
+SEE manuals/user.pdf FOR USER'S MANUAL
+
 EpidemicSimulation Directory Contents:
 	Directories
 	- src (source code)
